@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/wla_dx/examples/6510/zero_page
+END
+defines.i
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/wla_dx/examples/6510/zero_page/defines.i
+END
+main.s
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/examples/6510/zero_page/main.s
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/examples/6510/zero_page/makefile
+END
+linkfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/examples/6510/zero_page/linkfile
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string
+END
+math.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/math.hpp
+END
+cast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/cast.hpp
+END
+strpos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/strpos.hpp
+END
+split.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/split.hpp
+END
+match.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/match.hpp
+END
+xml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/xml.hpp
+END
+utility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/utility.hpp
+END
+base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/base.hpp
+END
+replace.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/replace.hpp
+END
+trim.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/trim.hpp
+END
+filename.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/filename.hpp
+END
+convert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/convert.hpp
+END
+variadic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/variadic.hpp
+END
+strl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/strl.hpp
+END
+compare.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/compare.hpp
+END
+core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string/core.hpp
+END

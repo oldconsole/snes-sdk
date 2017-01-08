@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/cx4
+END
+cx4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/cx4/cx4.cpp
+END
+cx4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/cx4/cx4.hpp
+END
+functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/cx4/functions.cpp
+END
+data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/cx4/data.cpp
+END
+opcodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/cx4/opcodes.cpp
+END
+oam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/cx4/oam.cpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/cx4/serialization.cpp
+END

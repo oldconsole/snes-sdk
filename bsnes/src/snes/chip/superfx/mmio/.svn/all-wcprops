@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/mmio
+END
+mmio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/mmio/mmio.cpp
+END
+mmio.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/mmio/mmio.hpp
+END

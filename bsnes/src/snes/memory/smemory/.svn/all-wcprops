@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/snes/memory/smemory
+END
+smemory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/memory/smemory/smemory.hpp
+END
+smemory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/memory/smemory/smemory.cpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/bsnes/src/snes/memory/smemory/serialization.cpp
+END

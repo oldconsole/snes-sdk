@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/wla_dx/opcode_table_generator
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/opcode_table_generator/defines.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/opcode_table_generator/main.c
+END
+create_tables.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/wla_dx/opcode_table_generator/create_tables.sh
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/opcode_table_generator/makefile
+END

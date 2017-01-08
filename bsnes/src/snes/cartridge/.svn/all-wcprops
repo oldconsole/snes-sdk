@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cartridge
+END
+xml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cartridge/xml.cpp
+END
+cartridge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cartridge/cartridge.cpp
+END
+cartridge.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cartridge/cartridge.hpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cartridge/serialization.cpp
+END

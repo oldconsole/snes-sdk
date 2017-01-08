@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/nonconstarraysize
+END
+array-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/nonconstarraysize/array-4.c
+END
+typename-vla-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/nonconstarraysize/typename-vla-1.c
+END
+20050527-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/nonconstarraysize/20050527-1.c
+END
+vla-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/nonconstarraysize/vla-4.c
+END
+packed-vla.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/nonconstarraysize/packed-vla.c
+END

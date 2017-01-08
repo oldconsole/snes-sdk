@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/core
+END
+opcode_table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/core/opcode_table.cpp
+END
+core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/core/core.cpp
+END
+registers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/core/registers.hpp
+END
+opcodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/core/opcodes.cpp
+END
+core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/core/core.hpp
+END

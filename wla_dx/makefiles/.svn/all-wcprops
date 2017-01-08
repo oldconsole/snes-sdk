@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/83/trunk/wla_dx/makefiles
+END
+makefile.unix.z80
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.unix.z80
+END
+makefile.amiga.6502
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.amiga.6502
+END
+makefile.unix.gb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.unix.gb
+END
+smake.gb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/smake.gb
+END
+smake.65816
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/smake.65816
+END
+makefile.amiga.huc6280
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.amiga.huc6280
+END
+makefile.msdos.65816
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.msdos.65816
+END
+makefile.unix.6510
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.unix.6510
+END
+makefile.win32.spc700
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.spc700
+END
+smake.6510
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/smake.6510
+END
+makefile.msdos.6502
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.msdos.6502
+END
+makefile.unix.huc6280
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.unix.huc6280
+END
+smake.65c02
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/smake.65c02
+END
+makefile.msdos.65c02
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.msdos.65c02
+END
+makefile.win32.gb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.gb
+END
+makefile.amiga.spc700
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.amiga.spc700
+END
+makefile.win32.65816.orig
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.65816.orig
+END
+makefile.win32.65816
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.65816
+END
+makefile.win32.6510.orig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.6510.orig
+END
+makefile.win32.6510
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.6510
+END
+makefile.win32.65c02.orig
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.65c02.orig
+END
+makefile.msdos.spc700
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.msdos.spc700
+END
+makefile.win32.65c02
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.65c02
+END
+scoptions.000
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/scoptions.000
+END
+smake.z80
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/smake.z80
+END
+scoptions.020
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/scoptions.020
+END
+makefile.msdos.z80
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.msdos.z80
+END
+makefile.amiga.gb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.amiga.gb
+END
+makefile.amiga.65816
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.amiga.65816
+END
+makefile.amiga.6510
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.amiga.6510
+END
+makefile.unix.65816
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/83/trunk/wla_dx/makefiles/makefile.unix.65816
+END
+makefile.amiga.65c02
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.amiga.65c02
+END
+makefile.msdos.gb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.msdos.gb
+END
+makefile.win32.spc700.orig
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.spc700.orig
+END
+makefile.unix.6502
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.unix.6502
+END
+makefile.msdos.6510
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.msdos.6510
+END
+smake.6502
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/smake.6502
+END
+makefile.win32.z80.orig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.z80.orig
+END
+makefile.unix.65c02
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.unix.65c02
+END
+makefile.win32.z80
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.z80
+END
+smake.huc6280
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/smake.huc6280
+END
+makefile.msdos.huc6280
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.msdos.huc6280
+END
+makefile.win32.gb.orig
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.gb.orig
+END
+makefile.win32.6502
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.6502
+END
+makefile.unix.spc700
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.unix.spc700
+END
+makefile.amiga.z80
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.amiga.z80
+END
+makefile.win32.huc6280.orig
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.huc6280.orig
+END
+smake.spc700
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/smake.spc700
+END
+makefile.win32.huc6280
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/makefiles/makefile.win32.huc6280
+END

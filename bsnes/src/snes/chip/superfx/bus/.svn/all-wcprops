@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/bus
+END
+bus.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/bus/bus.hpp
+END
+bus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/bus/bus.cpp
+END

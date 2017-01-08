@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/52/trunk/tcc-65816/test/unimplemented/builtin
+END
+pr17377.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/builtin/pr17377.c
+END
+20030811-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/builtin/20030811-1.c
+END
+frame-address.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/builtin/frame-address.c
+END

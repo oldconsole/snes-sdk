@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/72/trunk/bsnes/src/nall
+END
+input.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/nall/input.hpp
+END
+dl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/bsnes/src/nall/dl.hpp
+END
+vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/vector.hpp
+END
+varint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/varint.hpp
+END
+utility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/nall/utility.hpp
+END
+ups.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/bsnes/src/nall/ups.hpp
+END
+detect.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/detect.hpp
+END
+bit.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/bsnes/src/nall/bit.hpp
+END
+file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/nall/file.hpp
+END
+random.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/random.hpp
+END
+base64.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/base64.hpp
+END
+utf8.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/nall/utf8.hpp
+END
+static.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/static.hpp
+END
+sort.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/nall/sort.hpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/nall/Makefile
+END
+concept.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/nall/concept.hpp
+END
+lzss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/nall/lzss.hpp
+END
+endian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/endian.hpp
+END
+moduloarray.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/nall/moduloarray.hpp
+END
+stdint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/stdint.hpp
+END
+dictionary.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/nall/dictionary.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/config.hpp
+END
+string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/string.hpp
+END
+foreach.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/nall/foreach.hpp
+END
+sha256.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/sha256.hpp
+END
+serializer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/nall/serializer.hpp
+END
+crc32.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/nall/crc32.hpp
+END
+filemap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/nall/filemap.hpp
+END
+array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/nall/array.hpp
+END
+serial.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/nall/serial.hpp
+END
+property.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/bsnes/src/nall/property.hpp
+END
+platform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/bsnes/src/nall/platform.hpp
+END
+function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/bsnes/src/nall/function.hpp
+END
+priorityqueue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/src/nall/priorityqueue.hpp
+END
+algorithm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/src/nall/algorithm.hpp
+END
+any.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/bsnes/src/nall/any.hpp
+END

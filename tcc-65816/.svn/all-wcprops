@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/76/trunk/tcc-65816
+END
+stab.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/tcc-65816/stab.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/32/trunk/tcc-65816/configure
+END
+tcc-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tcc-65816/tcc-doc.texi
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/tcc-65816/VERSION
+END
+tcclib.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/tcc-65816/tcclib.h
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/tcc-65816/Changelog
+END
+tcctest.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/tcc-65816/tcctest.c
+END
+float.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/tcc-65816/float.h
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/tcc-65816/elf.h
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/tcc-65816/stddef.h
+END
+bcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/tcc-65816/bcheck.c
+END
+816-opt.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/69/trunk/tcc-65816/816-opt.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/tcc-65816/COPYING
+END
+config.texi
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/tcc-65816/config.texi
+END
+tcctok.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/tcc-65816/tcctok.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/tcc-65816/Makefile
+END
+gcctestsuite.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/tcc-65816/gcctestsuite.sh
+END
+tcc-doc.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tcc-65816/tcc-doc.html
+END
+tccelf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/71/trunk/tcc-65816/tccelf.c
+END
+libtcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/tcc-65816/libtcc.h
+END
+stab.def
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/tcc-65816/stab.def
+END
+boundtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/tcc-65816/boundtest.c
+END
+tcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/51/trunk/tcc-65816/tcc.c
+END
+varargs.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/tcc-65816/varargs.h
+END
+stdbool.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/tcc-65816/stdbool.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/tcc-65816/README
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/tcc-65816/TODO
+END
+816-gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/70/trunk/tcc-65816/816-gen.c
+END
+texi2pod.pl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/tcc-65816/texi2pod.pl
+END
+tcc.1
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/tcc-65816/tcc.1
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/tcc-65816/stdarg.h
+END

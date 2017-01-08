@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/72/trunk/bsnes/src/ruby
+END
+ruby.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/ruby.cpp
+END
+ruby_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/ruby_impl.cpp
+END
+ruby_audio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/ruby_audio.cpp
+END
+input.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/input.hpp
+END
+ruby.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/ruby.hpp
+END
+audio.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio.hpp
+END
+video.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/video.hpp
+END

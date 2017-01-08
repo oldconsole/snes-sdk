@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters
+END
+catrom2x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/catrom2x.cpp
+END
+maxsthq2x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/maxsthq2x.cpp
+END
+maxsthq3x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/maxsthq3x.cpp
+END
+catrom3x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/catrom3x.cpp
+END
+kreed2xsai.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/kreed2xsai.cpp
+END
+maxsthq2x.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/maxsthq2x.h
+END
+catrom2x.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/catrom2x.h
+END
+catrom3x.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/catrom3x.h
+END
+maxsthq3x.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/maxsthq3x.h
+END
+kreed2xsai.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/kreed2xsai.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video/filters/filter.h
+END

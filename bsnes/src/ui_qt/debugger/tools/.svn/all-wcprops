@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools
+END
+breakpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools/breakpoint.cpp
+END
+properties.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools/properties.moc.hpp
+END
+disassembler.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools/disassembler.moc.hpp
+END
+breakpoint.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools/breakpoint.moc.hpp
+END
+memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools/memory.cpp
+END
+memory.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools/memory.moc.hpp
+END
+properties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools/properties.cpp
+END
+disassembler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tools/disassembler.cpp
+END

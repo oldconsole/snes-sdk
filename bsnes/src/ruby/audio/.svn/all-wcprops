@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio
+END
+openal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio/openal.cpp
+END
+ao.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio/ao.cpp
+END
+alsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio/alsa.cpp
+END
+directsound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio/directsound.cpp
+END
+oss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio/oss.cpp
+END
+pulseaudiosimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio/pulseaudiosimple.cpp
+END
+pulseaudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/ruby/audio/pulseaudio.cpp
+END

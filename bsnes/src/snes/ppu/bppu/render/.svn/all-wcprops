@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render
+END
+render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/render.cpp
+END
+addsub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/addsub.cpp
+END
+cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/cache.cpp
+END
+render.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/render.hpp
+END
+line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/line.cpp
+END
+bg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/bg.cpp
+END
+windows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/windows.cpp
+END
+mode7.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/mode7.cpp
+END
+oam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/snes/ppu/bppu/render/oam.cpp
+END

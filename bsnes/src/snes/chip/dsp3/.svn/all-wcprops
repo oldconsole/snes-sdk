@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp3
+END
+dsp3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp3/dsp3.hpp
+END
+dsp3emu.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp3/dsp3emu.c
+END
+dsp3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp3/dsp3.cpp
+END

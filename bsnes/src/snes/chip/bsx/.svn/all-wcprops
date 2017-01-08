@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/bsx
+END
+bsx.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/bsx/bsx.hpp
+END
+bsx_cart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/bsx/bsx_cart.cpp
+END
+bsx_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/bsx/bsx_base.cpp
+END
+bsx_flash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/bsx/bsx_flash.cpp
+END
+bsx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/bsx/bsx.cpp
+END

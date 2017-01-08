@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx
+END
+superfx.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/superfx.hpp
+END
+superfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/superfx.cpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/superfx/serialization.cpp
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes
+END
+mnemonics_65816_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_65816_a.txt
+END
+header_o_spc700.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_o_spc700.txt
+END
+header_a_6510.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_a_6510.txt
+END
+mnemonics_6502_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_6502_a.txt
+END
+header_a_huc6280.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_a_huc6280.txt
+END
+mnemonics_65c02_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_65c02_a.txt
+END
+header_o_z80.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_o_z80.txt
+END
+header_o_gb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_o_gb.txt
+END
+mnemonics_65816_o.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_65816_o.txt
+END
+header_o_6510.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_o_6510.txt
+END
+mnemonics_6502_o.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_6502_o.txt
+END
+mnemonics_spc700_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_spc700_a.txt
+END
+mnemonics_65c02_o.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_65c02_o.txt
+END
+header_o_huc6280.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_o_huc6280.txt
+END
+mnemonics_z80_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_z80_a.txt
+END
+mnemonics_gb_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_gb_a.txt
+END
+header_a_65816.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_a_65816.txt
+END
+mnemonics_spc700_o.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_spc700_o.txt
+END
+mnemonics_6510_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_6510_a.txt
+END
+header_a_6502.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_a_6502.txt
+END
+mnemonics_z80_o.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_z80_o.txt
+END
+header_a_65c02.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_a_65c02.txt
+END
+mnemonics_huc6280_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_huc6280_a.txt
+END
+create_lists.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/create_lists.sh
+END
+mnemonics_gb_o.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_gb_o.txt
+END
+header_o_65816.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_o_65816.txt
+END
+mnemonics_6510_o.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_6510_o.txt
+END
+header_o_6502.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_o_6502.txt
+END
+header_a_spc700.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_a_spc700.txt
+END
+header_o_65c02.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_o_65c02.txt
+END
+mnemonics_huc6280_o.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/mnemonics_huc6280_o.txt
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/main.c
+END
+header_a_z80.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_a_z80.txt
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/makefile
+END
+header_a_gb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/wla_dx/txt/opcodes/header_a_gb.txt
+END

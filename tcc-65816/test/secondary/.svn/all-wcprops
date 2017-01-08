@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary
+END
+pr28289.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/pr28289.c
+END
+zero-struct-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/zero-struct-2.c
+END
+pr24135.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/pr24135.c
+END
+20030717-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/20030717-1.c
+END
+builtin-types-compatible-p.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/builtin-types-compatible-p.c
+END
+pr22098-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/pr22098-1.c
+END
+bf-sign-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/bf-sign-2.c
+END
+pr22098-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/pr22098-2.c
+END
+pr22098-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/pr22098-3.c
+END
+scope-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/scope-1.c
+END
+cmpdi-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/secondary/cmpdi-1.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/ntsc/snes_ntsc
+END
+snes_ntsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/ntsc/snes_ntsc/snes_ntsc.c
+END
+snes_ntsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/ntsc/snes_ntsc/snes_ntsc.h
+END
+snes_ntsc_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/ntsc/snes_ntsc/snes_ntsc_impl.h
+END
+snes_ntsc_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/ntsc/snes_ntsc/snes_ntsc_config.h
+END

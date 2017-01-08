@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/c99
+END
+c99-fordecl-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/c99/c99-fordecl-1.c
+END
+c99-init-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/c99/c99-init-1.c
+END
+c99-complit-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/c99/c99-complit-1.c
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core
+END
+opcode_rmw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/opcode_rmw.cpp
+END
+opcode_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/opcode_misc.cpp
+END
+opcode_read.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/opcode_read.cpp
+END
+table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/table.cpp
+END
+core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/core.cpp
+END
+algorithms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/algorithms.cpp
+END
+opcode_mov.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/opcode_mov.cpp
+END
+opcode_pc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/opcode_pc.cpp
+END
+registers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/registers.hpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/serialization.cpp
+END
+memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/memory.hpp
+END
+core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/core/core.hpp
+END

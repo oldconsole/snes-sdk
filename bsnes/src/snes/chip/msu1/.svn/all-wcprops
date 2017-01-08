@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/msu1
+END
+msu1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/msu1/msu1.cpp
+END
+msu1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/msu1/msu1.hpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/msu1/serialization.cpp
+END

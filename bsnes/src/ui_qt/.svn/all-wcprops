@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt
+END
+interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/interface.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/main.cpp
+END
+interface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/interface.hpp
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/config.cpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/config.hpp
+END
+ui-base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/ui-base.hpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/Makefile
+END

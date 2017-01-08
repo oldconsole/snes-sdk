@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/63/trunk/tcc-65816/include
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/tcc-65816/include/stddef.h
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/63/trunk/tcc-65816/include/math.h
+END
+strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/32/trunk/tcc-65816/include/strings.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/tcc-65816/include/limits.h
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/54/trunk/tcc-65816/include/stdlib.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/tcc-65816/include/setjmp.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/tcc-65816/include/stdio.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/tcc-65816/include/stdarg.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/53/trunk/tcc-65816/include/ctype.h
+END
+float.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/tcc-65816/include/float.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/tcc-65816/include/stdint.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/tcc-65816/include/string.h
+END
+stdbool.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/tcc-65816/include/stdbool.h
+END

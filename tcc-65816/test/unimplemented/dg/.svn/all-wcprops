@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/63/trunk/tcc-65816/test/unimplemented/dg
+END
+initpri1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/initpri1.c
+END
+ucnid-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/ucnid-1.c
+END
+ucnid-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/ucnid-2.c
+END
+ucnid-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/ucnid-3.c
+END
+ucnid-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/ucnid-4.c
+END
+ucnid-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/ucnid-5.c
+END
+c90-digraph-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/c90-digraph-1.c
+END
+ucnid-6.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/ucnid-6.c
+END
+c94-digraph-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/c94-digraph-1.c
+END
+gnu89-init-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/gnu89-init-1.c
+END
+bitfld-9.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/bitfld-9.c
+END
+gnu99-init-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/gnu99-init-1.c
+END
+c99-digraph-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/c99-digraph-1.c
+END
+struct-ret-libc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/struct-ret-libc.c
+END
+20020201-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/20020201-1.c
+END
+enum1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/enum1.c
+END
+cleanup-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/cleanup-2.c
+END
+cleanup-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/cleanup-4.c
+END
+attr-weakref-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/attr-weakref-1.c
+END
+alias-7.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/alias-7.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/72/trunk/bsnes/snesfilter
+END
+snesfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/snesfilter.cpp
+END
+snesfilter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/snesfilter.hpp
+END
+sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/sync.sh
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/clean.bat
+END
+cc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/cc.bat
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/snesfilter/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp
+END
+smp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/smp.cpp
+END
+smp-debugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/smp-debugger.cpp
+END
+smp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/smp.hpp
+END
+smp-debugger.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/snes/smp/smp-debugger.hpp
+END

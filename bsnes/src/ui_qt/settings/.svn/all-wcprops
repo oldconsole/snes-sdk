@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings
+END
+input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/input.cpp
+END
+paths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/paths.cpp
+END
+settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/settings.cpp
+END
+paths.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/paths.moc.hpp
+END
+audio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/audio.cpp
+END
+input.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/input.moc.hpp
+END
+settings.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/settings.moc.hpp
+END
+audio.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/audio.moc.hpp
+END
+advanced.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/advanced.cpp
+END
+video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/video.cpp
+END
+advanced.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/advanced.moc.hpp
+END
+video.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/settings/video.moc.hpp
+END

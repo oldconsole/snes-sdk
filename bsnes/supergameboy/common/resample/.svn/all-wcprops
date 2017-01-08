@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample
+END
+resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/resampler.h
+END
+makesinckernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/makesinckernel.h
+END
+hammingsinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/hammingsinc.h
+END
+linint.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/linint.h
+END
+chainresampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/chainresampler.h
+END
+convoluter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/convoluter.h
+END
+resamplerinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/resamplerinfo.cpp
+END
+subresampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/subresampler.h
+END
+resamplerinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/resamplerinfo.h
+END
+upsampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/upsampler.h
+END
+rectsinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/rectsinc.h
+END
+u48div.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/u48div.cpp
+END
+cic2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/cic2.h
+END
+cic3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/cic3.h
+END
+cic4.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/cic4.h
+END
+u48div.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/u48div.h
+END
+blackmansinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/blackmansinc.h
+END
+chainresampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/common/resample/chainresampler.cpp
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/inffixed.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/zutil.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/crc32.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/inflate.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/inftrees.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/inflate.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/readme.txt
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/inffast.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/adler32.c
+END
+zlib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/zlib/zlib.txt
+END

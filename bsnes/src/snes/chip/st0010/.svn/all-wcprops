@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/st0010
+END
+data.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/st0010/data.hpp
+END
+st0010.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/st0010/st0010.cpp
+END
+st0010.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/st0010/st0010.hpp
+END
+opcodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/st0010/opcodes.cpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/st0010/serialization.cpp
+END

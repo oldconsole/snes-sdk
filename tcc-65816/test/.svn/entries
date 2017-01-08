@@ -1,0 +1,132 @@
+10
+
+dir
+83
+http://snes-sdk.googlecode.com/svn/trunk/tcc-65816/test
+http://snes-sdk.googlecode.com/svn
+
+
+
+2010-07-19T21:54:08.206341Z
+76
+ulrich.hecht
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e493d80-052e-11de-a3aa-254263d3d64b
+
+broken
+dir
+
+tests
+dir
+
+strange
+dir
+
+gunk
+dir
+
+bad_test
+dir
+
+unimplemented
+dir
+
+secondary
+dir
+
+mk
+file
+
+
+
+
+2013-08-09T09:18:24.751280Z
+7226cbba611b83364435b985a1111c48
+2010-07-19T21:54:08.206341Z
+76
+ulrich.hecht
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1385
+
+compile
+dir
+
+dg
+dir
+
+not_applicable
+dir
+
+hdr.asm
+file
+
+
+
+
+2013-08-09T09:18:24.760280Z
+b6221b4d92c1e0a0fd4ad5d4ad69c89d
+2009-02-28T01:06:33.384699Z
+2
+ulrich.hecht
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+failtraces
+dir
+
+hw
+dir
+

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C
+END
+7zC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zC.txt
+END
+7zExtract.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zExtract.h
+END
+lzma.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/lzma.txt
+END
+7zBuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zBuf.h
+END
+7zDecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zDecode.c
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/Types.h
+END
+Bra.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/Bra.h
+END
+7zHeader.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zHeader.c
+END
+7zDecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zDecode.h
+END
+7zAlloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zAlloc.c
+END
+7zStream.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zStream.c
+END
+7zHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zHeader.h
+END
+LzmaDec.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/LzmaDec.c
+END
+7zItem.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zItem.c
+END
+7zAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zAlloc.h
+END
+Bcj2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/Bcj2.c
+END
+Bra86.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/Bra86.c
+END
+7zItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zItem.h
+END
+LzmaDec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/LzmaDec.h
+END
+Bcj2.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/Bcj2.h
+END
+7zIn.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zIn.c
+END
+7zCrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zCrc.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/readme.txt
+END
+CpuArch.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/CpuArch.h
+END
+7zExtract.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zExtract.c
+END
+7zIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zIn.h
+END
+7zCrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zCrc.h
+END
+7zBuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/7z_C/7zBuf.c
+END

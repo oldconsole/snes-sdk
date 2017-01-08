@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/72/trunk/bsnes/snesreader
+END
+snesreader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/snesreader.hpp
+END
+filechooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/filechooser.cpp
+END
+filechooser.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/snesreader/filechooser.moc.hpp
+END
+sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/snesreader/sync.sh
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/snesreader/clean.bat
+END
+cc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/snesreader/cc.bat
+END
+snesreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/snesreader.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/snesreader/Makefile
+END

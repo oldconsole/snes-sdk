@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound
+END
+channel1.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/channel1.h
+END
+channel2.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/channel2.h
+END
+channel3.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/channel3.h
+END
+channel4.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/channel4.h
+END
+static_output_tester.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/static_output_tester.h
+END
+master_disabler.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/master_disabler.h
+END
+envelope_unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/envelope_unit.cpp
+END
+length_counter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/length_counter.cpp
+END
+envelope_unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/envelope_unit.h
+END
+duty_unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/duty_unit.cpp
+END
+length_counter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/length_counter.h
+END
+channel1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/channel1.cpp
+END
+duty_unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/duty_unit.h
+END
+channel2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/channel2.cpp
+END
+channel3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/channel3.cpp
+END
+channel4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/channel4.cpp
+END
+sound_unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound/sound_unit.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger
+END
+tracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tracer.cpp
+END
+tracer.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/tracer.moc.hpp
+END
+debugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/debugger.cpp
+END
+debugger.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/debugger.moc.hpp
+END

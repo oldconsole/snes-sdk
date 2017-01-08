@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/wla_dx/examples/65816/operand_hint_test
+END
+main.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/wla_dx/examples/65816/operand_hint_test/main.s
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/wla_dx/examples/65816/operand_hint_test/makefile
+END
+linkfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/wla_dx/examples/65816/operand_hint_test/linkfile
+END

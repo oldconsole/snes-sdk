@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu
+END
+vram-viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu/vram-viewer.cpp
+END
+vram-viewer.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu/vram-viewer.moc.hpp
+END
+cgram-viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu/cgram-viewer.cpp
+END
+cgram-viewer.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu/cgram-viewer.moc.hpp
+END
+oam-viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu/oam-viewer.cpp
+END
+layer-toggle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu/layer-toggle.cpp
+END
+oam-viewer.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu/oam-viewer.moc.hpp
+END
+layer-toggle.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/debugger/ppu/layer-toggle.moc.hpp
+END

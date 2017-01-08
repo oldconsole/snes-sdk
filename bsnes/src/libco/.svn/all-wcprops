@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/72/trunk/bsnes/src/libco
+END
+ppc.s
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/bsnes/src/libco/ppc.s
+END
+sjlj.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/bsnes/src/libco/sjlj.c
+END
+x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/bsnes/src/libco/x86.c
+END
+ppc-elf.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/bsnes/src/libco/ppc-elf.c
+END
+fiber.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/libco/fiber.c
+END
+libco.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/libco/libco.c
+END
+ucontext.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/bsnes/src/libco/ucontext.c
+END
+amd64.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/libco/amd64.c
+END
+ppc64.s
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/libco/ppc64.s
+END
+libco.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/src/libco/libco.h
+END

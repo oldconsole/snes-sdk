@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/75/trunk/libs
+END
+libtcc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/libs/libtcc.asm
+END
+crt0_snes.asm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/75/trunk/libs/crt0_snes.asm
+END
+libm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/63/trunk/libs/libm.asm
+END
+ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/trunk/libs/ctype.c
+END
+libm_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/63/trunk/libs/libm_c.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/57/trunk/libs/string.c
+END
+libc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/75/trunk/libs/libc.asm
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/54/trunk/libs/malloc.c
+END
+vsprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/47/trunk/libs/vsprintf.c
+END
+libc_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/57/trunk/libs/libc_c.c
+END
+hdr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/12/trunk/libs/hdr.asm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/68/trunk/libs/Makefile
+END

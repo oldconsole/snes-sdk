@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base
+END
+filebrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/filebrowser.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/main.cpp
+END
+filebrowser.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/filebrowser.moc.hpp
+END
+loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/loader.cpp
+END
+main.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/main.moc.hpp
+END
+htmlviewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/htmlviewer.cpp
+END
+htmlviewer.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/htmlviewer.moc.hpp
+END
+loader.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/loader.moc.hpp
+END
+base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/base.cpp
+END
+about.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/about.cpp
+END
+about.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/base/about.moc.hpp
+END

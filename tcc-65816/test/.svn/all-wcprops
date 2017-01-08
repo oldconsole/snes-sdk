@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/76/trunk/tcc-65816/test
+END
+mk
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/76/trunk/tcc-65816/test/mk
+END
+hdr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tcc-65816/test/hdr.asm
+END

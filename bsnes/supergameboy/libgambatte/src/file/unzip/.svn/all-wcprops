@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/file/unzip
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/file/unzip/ioapi.c
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/file/unzip/unzip.c
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/file/unzip/ioapi.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/file/unzip/crypt.h
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/file/unzip/unzip.h
+END

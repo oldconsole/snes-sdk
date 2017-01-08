@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall
+END
+input.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/input.hpp
+END
+dl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/dl.hpp
+END
+vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/vector.hpp
+END
+varint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/varint.hpp
+END
+utility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/utility.hpp
+END
+ups.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/ups.hpp
+END
+detect.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/detect.hpp
+END
+bit.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/bit.hpp
+END
+file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/file.hpp
+END
+random.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/random.hpp
+END
+base64.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/base64.hpp
+END
+utf8.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/utf8.hpp
+END
+static.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/static.hpp
+END
+sort.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/sort.hpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/Makefile
+END
+concept.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/concept.hpp
+END
+lzss.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/lzss.hpp
+END
+endian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/endian.hpp
+END
+moduloarray.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/moduloarray.hpp
+END
+stdint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/stdint.hpp
+END
+dictionary.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/dictionary.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/config.hpp
+END
+string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string.hpp
+END
+foreach.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/foreach.hpp
+END
+sha256.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/sha256.hpp
+END
+serializer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/serializer.hpp
+END
+crc32.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/crc32.hpp
+END
+filemap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/filemap.hpp
+END
+array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/array.hpp
+END
+serial.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/serial.hpp
+END
+property.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/property.hpp
+END
+platform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/platform.hpp
+END
+function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/function.hpp
+END
+priorityqueue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/priorityqueue.hpp
+END
+algorithm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/algorithm.hpp
+END
+any.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/any.hpp
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/76/trunk/tcc-65816/test/hw
+END
+hw2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw2.asm
+END
+hw2.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw2.c
+END
+hw3.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/35/trunk/tcc-65816/test/hw/hw3.c
+END
+hw3a.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw3a.c
+END
+asmfptest.asm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/tcc-65816/test/hw/asmfptest.asm
+END
+hw3.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw3.h
+END
+hw3_8regs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw3_8regs.asm
+END
+hw3_r9.asm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw3_r9.asm
+END
+hdr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hdr.asm
+END
+output.gcc.linux32
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/tcc-65816/test/hw/output.gcc.linux32
+END
+hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw.c
+END
+test.lnk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/tcc-65816/test/hw/test.lnk
+END
+output.gcc.linux64
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/tcc-65816/test/hw/output.gcc.linux64
+END
+mk
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/tcc-65816/test/hw/mk
+END
+hw3_ptr16.asm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw3_ptr16.asm
+END
+hw3ref.asm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/hw/hw3ref.asm
+END

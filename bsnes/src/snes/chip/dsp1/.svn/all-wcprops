@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp1
+END
+dsp1emu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp1/dsp1emu.cpp
+END
+dsp1emu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp1/dsp1emu.hpp
+END
+dsp1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp1/dsp1.cpp
+END
+dsp1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp1/dsp1.hpp
+END
+serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/src/snes/chip/dsp1/serialization.cpp
+END

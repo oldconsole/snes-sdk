@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/background_test
+END
+cgb_hardware.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/background_test/cgb_hardware.i
+END
+defines.i
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/background_test/defines.i
+END
+main.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/background_test/main.s
+END
+old.gb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/background_test/old.gb
+END
+gb_memory.i
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/background_test/gb_memory.i
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/background_test/makefile
+END
+linkfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/background_test/linkfile
+END

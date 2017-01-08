@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/77/trunk/bsnes/src
+END
+sync.bat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/72/trunk/bsnes/src/sync.bat
+END
+sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/72/trunk/bsnes/src/sync.sh
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/72/trunk/bsnes/src/clean.bat
+END
+cc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/72/trunk/bsnes/src/cc.bat
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/77/trunk/bsnes/src/Makefile
+END

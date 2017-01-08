@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test
+END
+cgb_hardware.i
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/cgb_hardware.i
+END
+setup.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/setup.s
+END
+exmain.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/exmain.s
+END
+defines1.i
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/defines1.i
+END
+main.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/main.s
+END
+defines2.i
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/defines2.i
+END
+test.i
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/test.i
+END
+gb_memory1.i
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/gb_memory1.i
+END
+gb_memory2.i
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/gb_memory2.i
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/makefile
+END
+linkfile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/linker_test/linkfile
+END

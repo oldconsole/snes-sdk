@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/include
+END
+int.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/include/int.h
+END
+inputstategetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/include/inputstategetter.h
+END
+videoblitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/include/videoblitter.h
+END
+inputstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/include/inputstate.h
+END
+filterinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/include/filterinfo.h
+END
+gambatte.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/include/gambatte.h
+END

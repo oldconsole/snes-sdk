@@ -1,0 +1,4949 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/63/trunk/tcc-65816/test/tests
+END
+20030913-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030913-1.c
+END
+921124-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921124-1.c
+END
+enum-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/enum-1.c
+END
+931004-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-5.c
+END
+950710-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950710-1.c
+END
+pr29798.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr29798.c
+END
+960117-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960117-1.c
+END
+ptr-arith-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/ptr-arith-1.c
+END
+990513-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990513-1.c
+END
+950915-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950915-1.c
+END
+20021011-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021011-1.c
+END
+20020201-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020201-1.c
+END
+20000402-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000402-1.c
+END
+20000205-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000205-1.c
+END
+loop-11.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-11.c
+END
+20041212-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041212-1.c
+END
+20050203-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050203-1.c
+END
+20030404-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030404-1.c
+END
+20031214-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031214-1.c
+END
+20030224-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030224-2.c
+END
+20010605-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010605-1.c
+END
+940122-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/940122-1.c
+END
+920520-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920520-1.c
+END
+20040705-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040705-2.c
+END
+920501-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920501-4.c
+END
+20030626-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/20030626-2.c
+END
+20040409-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040409-3.c
+END
+va-arg-17.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-17.c
+END
+pr7284-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr7284-1.c
+END
+961017-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961017-1.c
+END
+920922-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920922-1.c
+END
+930526-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930526-1.c
+END
+multi-ix.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/multi-ix.c
+END
+991216-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991216-1.c
+END
+980605-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/980605-1.c
+END
+980506-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980506-2.c
+END
+991019-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991019-1.c
+END
+990128-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990128-1.c
+END
+990826-0.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/62/trunk/tcc-65816/test/tests/990826-0.c
+END
+divmod-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divmod-1.c
+END
+va-arg-7.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-7.c
+END
+20001221-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001221-1.c
+END
+20001203-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001203-2.c
+END
+20001024-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001024-1.c
+END
+20061101-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20061101-1.c
+END
+20050131-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050131-1.c
+END
+20030216-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030216-1.c
+END
+20001229-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001229-1.c
+END
+20000419-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000419-1.c
+END
+shiftopt-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/shiftopt-1.c
+END
+va-arg-26.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-26.c
+END
+931004-6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-6.c
+END
+enum-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/enum-2.c
+END
+961223-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961223-1.c
+END
+950612-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950612-1.c
+END
+970214-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/970214-1.c
+END
+961026-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961026-1.c
+END
+920618-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920618-1.c
+END
+990531-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990531-1.c
+END
+strcpy-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strcpy-1.c
+END
+20020103-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020103-1.c
+END
+pr31448.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr31448.c
+END
+20010221-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010221-1.c
+END
+20000223-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000223-1.c
+END
+loop-12.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-12.c
+END
+20041114-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041114-1.c
+END
+20040223-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040223-1.c
+END
+20021118-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021118-1.c
+END
+20000706-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000706-1.c
+END
+941031-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/941031-1.c
+END
+20040706-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040706-1.c
+END
+20040625-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040625-1.c
+END
+bcp-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/bcp-1.c
+END
+920501-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920501-5.c
+END
+va-arg-18.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-18.c
+END
+950621-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950621-1.c
+END
+961017-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961017-2.c
+END
+991216-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991216-2.c
+END
+980506-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980506-3.c
+END
+pr20527-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr20527-1.c
+END
+pr17252.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr17252.c
+END
+va-arg-8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-8.c
+END
+memcpy-bi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/memcpy-bi.c
+END
+20011121-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011121-1.c
+END
+20000313-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000313-1.c
+END
+20010114-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010114-1.c
+END
+20061101-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20061101-2.c
+END
+20040313-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040313-1.c
+END
+20010910-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010910-1.c
+END
+20000715-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000715-1.c
+END
+pr29695-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr29695-1.c
+END
+951003-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/951003-1.c
+END
+20040831-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040831-1.c
+END
+20050713-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050713-1.c
+END
+20030914-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030914-1.c
+END
+20030717-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030717-1.c
+END
+20020916-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020916-1.c
+END
+931004-7.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-7.c
+END
+enum-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/enum-3.c
+END
+960512-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960512-1.c
+END
+961125-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961125-1.c
+END
+970214-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/970214-2.c
+END
+961206-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961206-1.c
+END
+930518-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930518-1.c
+END
+unroll-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/unroll-1.c
+END
+pr29006.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr29006.c
+END
+20031010-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031010-1.c
+END
+tstdi-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/tstdi-1.c
+END
+20010123-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010123-1.c
+END
+20000403-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000403-1.c
+END
+20020720-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020720-1.c
+END
+loop-13.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-13.c
+END
+20031215-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031215-1.c
+END
+20000706-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000706-2.c
+END
+20011219-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011219-1.c
+END
+20021118-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021118-2.c
+END
+20020129-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020129-1.c
+END
+20010409-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010409-1.c
+END
+941014-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/941014-1.c
+END
+20040805-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040805-1.c
+END
+pr20100-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr20100-1.c
+END
+981130-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/981130-1.c
+END
+920501-6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920501-6.c
+END
+960521-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/tcc-65816/test/tests/960521-1.c
+END
+va-arg-19.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-19.c
+END
+960405-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960405-1.c
+END
+930921-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930921-1.c
+END
+loop-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-1.c
+END
+920726-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/920726-1.c
+END
+930608-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930608-1.c
+END
+930527-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930527-1.c
+END
+990604-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990604-1.c
+END
+cmpsi-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/cmpsi-1.c
+END
+990326-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990326-1.c
+END
+950809-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950809-1.c
+END
+930929-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930929-1.c
+END
+va-arg-9.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-9.c
+END
+20000412-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000412-1.c
+END
+memset-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/memset-1.c
+END
+20050410-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050410-1.c
+END
+20020810-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020810-1.c
+END
+20051104-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20051104-1.c
+END
+20040331-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040331-1.c
+END
+20000715-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000715-2.c
+END
+20020219-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020219-1.c
+END
+pr29695-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr29695-2.c
+END
+20030914-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030914-2.c
+END
+990211-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990211-1.c
+END
+930930-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930930-1.c
+END
+931004-8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-8.c
+END
+compare-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/compare-1.c
+END
+20021111-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021111-1.c
+END
+20010222-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010222-1.c
+END
+20011113-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011113-1.c
+END
+20000224-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000224-1.c
+END
+20010106-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010106-1.c
+END
+20051113-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/39/trunk/tcc-65816/test/tests/20051113-1.c
+END
+20041213-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041213-2.c
+END
+20050106-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050106-1.c
+END
+loop-14.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-14.c
+END
+20020506-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020506-1.c
+END
+20030307-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030307-1.c
+END
+20000707-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000707-1.c
+END
+20021119-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021119-1.c
+END
+20021118-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021118-3.c
+END
+20000706-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000706-3.c
+END
+20040823-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040823-1.c
+END
+20040707-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040707-1.c
+END
+921117-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921117-1.c
+END
+991030-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991030-1.c
+END
+vrp-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/vrp-1.c
+END
+pr20601-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr20601-1.c
+END
+930429-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930429-1.c
+END
+loop-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-2.c
+END
+loop-2b.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-2b.c
+END
+pr21331.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr21331.c
+END
+991216-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991216-4.c
+END
+990827-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990827-1.c
+END
+tcc-fabs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/63/trunk/tcc-65816/test/tests/tcc-fabs.c
+END
+20021120-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021120-1.c
+END
+20000511-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000511-1.c
+END
+20000314-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000314-1.c
+END
+20001124-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001124-1.c
+END
+20000412-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000412-2.c
+END
+memset-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/memset-2.c
+END
+20030316-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030316-1.c
+END
+20000519-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000519-1.c
+END
+pr28982a.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr28982a.c
+END
+920710-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920710-1.c
+END
+940115-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/940115-1.c
+END
+20030718-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030718-1.c
+END
+921207-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921207-1.c
+END
+bitfld-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/bitfld-1.c
+END
+991201-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991201-1.c
+END
+960513-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960513-1.c
+END
+931004-9.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-9.c
+END
+930930-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930930-2.c
+END
+pure-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pure-1.c
+END
+931004-10.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-10.c
+END
+pr27260.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr27260.c
+END
+20031011-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031011-1.c
+END
+20030120-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030120-1.c
+END
+compare-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/compare-2.c
+END
+compndlit-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/compndlit-1.c
+END
+20001017-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001017-1.c
+END
+20070201-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/20070201-1.c
+END
+20071011-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20071011-1.c
+END
+20041214-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041214-1.c
+END
+20050124-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050124-1.c
+END
+20031216-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031216-1.c
+END
+func-ptr-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/func-ptr-1.c
+END
+20010723-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010723-1.c
+END
+loop-15.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-15.c
+END
+20030209-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030209-1.c
+END
+20030128-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030128-1.c
+END
+20000528-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000528-1.c
+END
+20010329-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010329-1.c
+END
+20000706-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000706-4.c
+END
+941015-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/941015-1.c
+END
+920603-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920603-1.c
+END
+930126-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930126-1.c
+END
+931017-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931017-1.c
+END
+comp-goto-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/comp-goto-1.c
+END
+921019-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921019-1.c
+END
+vrp-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/vrp-2.c
+END
+950605-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950605-1.c
+END
+960209-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960209-1.c
+END
+930725-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930725-1.c
+END
+loop-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-3.c
+END
+930429-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930429-2.c
+END
+struct-ret-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/struct-ret-1.c
+END
+990524-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990524-1.c
+END
+loop-2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-2c.c
+END
+980526-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980526-1.c
+END
+strct-stdarg-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strct-stdarg-1.c
+END
+pr20187-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr20187-1.c
+END
+pr28403.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr28403.c
+END
+pr27073.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr27073.c
+END
+20031020-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031020-1.c
+END
+packed-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/packed-1.c
+END
+20021120-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021120-2.c
+END
+20011024-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011024-1.c
+END
+divconst-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divconst-1.c
+END
+20000314-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000314-2.c
+END
+20000412-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000412-3.c
+END
+20001026-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001026-1.c
+END
+anon-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/anon-1.c
+END
+memset-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/memset-3.c
+END
+20020614-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020614-1.c
+END
+20000815-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000815-1.c
+END
+20030218-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030218-1.c
+END
+20000519-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000519-2.c
+END
+pr28982b.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr28982b.c
+END
+920612-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920612-1.c
+END
+20020819-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020819-1.c
+END
+bitfld-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/bitfld-2.c
+END
+index-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/index-1.c
+END
+960218-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960218-1.c
+END
+990811-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990811-1.c
+END
+loop-3b.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-3b.c
+END
+991227-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991227-1.c
+END
+931004-11.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-11.c
+END
+pr21964-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr21964-1.c
+END
+pr24716.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr24716.c
+END
+compare-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/compare-3.c
+END
+20030120-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030120-2.c
+END
+20000422-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000422-1.c
+END
+20000503-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000503-1.c
+END
+20011114-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011114-1.c
+END
+20000225-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000225-1.c
+END
+20001017-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001017-2.c
+END
+20061031-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20061031-1.c
+END
+921110-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921110-1.c
+END
+20050107-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050107-1.c
+END
+20000706-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000706-5.c
+END
+20070424-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20070424-1.c
+END
+950221-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950221-1.c
+END
+ashldi-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/ashldi-1.c
+END
+921019-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921019-2.c
+END
+991112-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/52/trunk/tcc-65816/test/tests/991112-1.c
+END
+920501-9.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/920501-9.c
+END
+950704-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950704-1.c
+END
+950426-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950426-1.c
+END
+vrp-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/vrp-3.c
+END
+loop-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-4.c
+END
+struct-ret-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/struct-ret-2.c
+END
+tcc-pow.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/63/trunk/tcc-65816/test/tests/tcc-pow.c
+END
+980526-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980526-2.c
+END
+loop-2d.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-2d.c
+END
+divcmp-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divcmp-1.c
+END
+20031003-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031003-1.c
+END
+packed-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/packed-2.c
+END
+pr17078-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr17078-1.c
+END
+20021120-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/20021120-3.c
+END
+divconst-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divconst-2.c
+END
+20010116-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010116-1.c
+END
+20000314-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000314-3.c
+END
+20001009-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001009-1.c
+END
+20000412-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000412-4.c
+END
+20000914-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/39/trunk/tcc-65816/test/tests/20000914-1.c
+END
+20010518-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010518-1.c
+END
+20000717-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000717-1.c
+END
+20060910-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060910-1.c
+END
+920711-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920711-1.c
+END
+920612-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920612-2.c
+END
+20030916-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030916-1.c
+END
+921208-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921208-1.c
+END
+931009-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931009-1.c
+END
+991202-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991202-1.c
+END
+usmul.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/usmul.c
+END
+960317-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960317-1.c
+END
+loop-3c.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-3c.c
+END
+pr15262-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/39/trunk/tcc-65816/test/tests/pr15262-1.c
+END
+931004-12.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-12.c
+END
+pr23941.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr23941.c
+END
+pending-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pending-4.c
+END
+20020320-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020320-1.c
+END
+20031012-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031012-1.c
+END
+20010403-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010403-1.c
+END
+20010206-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010206-1.c
+END
+920202-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920202-1.c
+END
+20050125-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050125-1.c
+END
+20040208-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040208-1.c
+END
+20021219-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021219-1.c
+END
+20020328-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020328-1.c
+END
+20000726-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000726-1.c
+END
+bf-layout-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/bf-layout-1.c
+END
+920604-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920604-1.c
+END
+931018-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931018-1.c
+END
+930208-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930208-1.c
+END
+991014-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991014-1.c
+END
+960801-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960801-1.c
+END
+980205.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980205.c
+END
+960326-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960326-1.c
+END
+950426-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950426-2.c
+END
+vrp-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/vrp-4.c
+END
+920728-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920728-1.c
+END
+930529-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930529-1.c
+END
+970923-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/970923-1.c
+END
+990525-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990525-1.c
+END
+loop-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-5.c
+END
+980608-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980608-1.c
+END
+loop-4b.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-4b.c
+END
+loop-2e.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-2e.c
+END
+980526-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980526-3.c
+END
+pr20466-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr20466-1.c
+END
+divcmp-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divcmp-2.c
+END
+980929-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980929-1.c
+END
+strncmp-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strncmp-1.c
+END
+widechar-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/widechar-1.c
+END
+20020213-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020213-1.c
+END
+pr15296.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr15296.c
+END
+20001108-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001108-1.c
+END
+20001027-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001027-1.c
+END
+divconst-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divconst-3.c
+END
+loop-ivopts-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-ivopts-1.c
+END
+20000217-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000217-1.c
+END
+20000412-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000412-5.c
+END
+20001009-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001009-2.c
+END
+20030613-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030613-1.c
+END
+20050215-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050215-1.c
+END
+20020615-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020615-1.c
+END
+20020418-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020418-1.c
+END
+arith-rand-ll.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/arith-rand-ll.c
+END
+20000717-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000717-2.c
+END
+20010518-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010518-2.c
+END
+920810-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/tcc-65816/test/tests/920810-1.c
+END
+941025-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/941025-1.c
+END
+921208-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921208-2.c
+END
+921029-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921029-1.c
+END
+991202-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991202-2.c
+END
+bitfld-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/bitfld-4.c
+END
+991023-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991023-1.c
+END
+960416-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960416-1.c
+END
+960219-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960219-1.c
+END
+991228-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991228-1.c
+END
+980617-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980617-1.c
+END
+pr15262-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr15262-2.c
+END
+931004-13.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-13.c
+END
+20011115-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011115-1.c
+END
+20010224-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010224-1.c
+END
+20050502-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050502-1.c
+END
+20050224-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050224-1.c
+END
+20040307-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040307-1.c
+END
+20040208-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040208-2.c
+END
+20020508-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020508-1.c
+END
+960301-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960301-1.c
+END
+920506-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920506-1.c
+END
+20040709-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040709-1.c
+END
+arith-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/arith-1.c
+END
+990222-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990222-1.c
+END
+990106-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990106-1.c
+END
+strcmp-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strcmp-1.c
+END
+980223.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980223.c
+END
+ashrdi-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/ashrdi-1.c
+END
+930628-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930628-1.c
+END
+920908-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920908-1.c
+END
+vrp-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/vrp-5.c
+END
+pr32500.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr32500.c
+END
+p18298.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/p18298.c
+END
+loop-6.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-6.c
+END
+980707-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980707-1.c
+END
+990525-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990525-2.c
+END
+loop-2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-2f.c
+END
+pr31072.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr31072.c
+END
+pr21173.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr21173.c
+END
+pr31136.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr31136.c
+END
+divcmp-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divcmp-3.c
+END
+990829-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990829-1.c
+END
+widechar-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/widechar-2.c
+END
+20031201-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031201-1.c
+END
+loop-ivopts-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-ivopts-2.c
+END
+20000412-6.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000412-6.c
+END
+930111-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930111-1.c
+END
+20020911-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020911-1.c
+END
+931002-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931002-1.c
+END
+20041126-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041126-1.c
+END
+restrict-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/restrict-1.c
+END
+20000717-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000717-3.c
+END
+961004-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961004-1.c
+END
+991202-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991202-3.c
+END
+950714-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950714-1.c
+END
+930718-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930718-1.c
+END
+980716-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980716-1.c
+END
+20001011-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001011-1.c
+END
+931004-14.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-14.c
+END
+pr24851.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr24851.c
+END
+20041011-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041011-1.c
+END
+nestfunc-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/nestfunc-4.c
+END
+20020402-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020402-1.c
+END
+20010520-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010520-1.c
+END
+20020321-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020321-1.c
+END
+20030203-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030203-1.c
+END
+20000603-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000603-1.c
+END
+memcpy-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/memcpy-1.c
+END
+20021015-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021015-1.c
+END
+20050502-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050502-2.c
+END
+921013-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921013-1.c
+END
+20030408-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030408-1.c
+END
+20041019-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041019-1.c
+END
+20020508-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020508-2.c
+END
+20000808-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000808-1.c
+END
+pr19687.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr19687.c
+END
+920721-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920721-1.c
+END
+930603-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930603-1.c
+END
+921218-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921218-1.c
+END
+20040709-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040709-2.c
+END
+dbra-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/dbra-1.c
+END
+960802-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960802-1.c
+END
+990106-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990106-2.c
+END
+960327-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/960327-1.c
+END
+950607-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950607-1.c
+END
+pr20621-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr20621-1.c
+END
+920908-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920908-2.c
+END
+vrp-6.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/vrp-6.c
+END
+990804-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990804-1.c
+END
+pr24141.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr24141.c
+END
+mod-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/mod-1.c
+END
+loop-7.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-7.c
+END
+loop-2g.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-2g.c
+END
+divcmp-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divcmp-4.c
+END
+20021024-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021024-1.c
+END
+20011223-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011223-1.c
+END
+20070212-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20070212-1.c
+END
+20040218-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040218-1.c
+END
+pr29797-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr29797-1.c
+END
+20000717-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000717-4.c
+END
+920730-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920730-1.c
+END
+930513-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930513-2.c
+END
+991221-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991221-1.c
+END
+980618-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980618-1.c
+END
+lshrdi-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/lshrdi-1.c
+END
+20030221-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030221-1.c
+END
+20030105-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030105-1.c
+END
+20010422-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010422-1.c
+END
+20020402-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020402-2.c
+END
+20020107-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020107-1.c
+END
+memcpy-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/memcpy-2.c
+END
+pr30778.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr30778.c
+END
+20000227-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000227-1.c
+END
+va-arg-10.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-10.c
+END
+20060420-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060420-1.c
+END
+931110-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931110-1.c
+END
+920302-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920302-1.c
+END
+921112-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921112-1.c
+END
+20020508-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020508-3.c
+END
+961112-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961112-1.c
+END
+960302-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960302-1.c
+END
+20070623-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20070623-1.c
+END
+930702-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930702-1.c
+END
+930621-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930621-1.c
+END
+930603-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930603-2.c
+END
+20040629-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040629-1.c
+END
+20030828-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030828-1.c
+END
+20030909-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030909-1.c
+END
+921218-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921218-2.c
+END
+950706-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950706-1.c
+END
+950607-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950607-2.c
+END
+920909-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920909-1.c
+END
+vrp-7.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/vrp-7.c
+END
+960909-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960909-1.c
+END
+loop-8.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-8.c
+END
+pr24142.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr24142.c
+END
+20000112-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000112-1.c
+END
+divcmp-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/divcmp-5.c
+END
+pr19515.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr19515.c
+END
+20020510-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020510-1.c
+END
+20021204-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021204-1.c
+END
+inst-check.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/inst-check.c
+END
+20010118-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010118-1.c
+END
+20011008-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011008-3.c
+END
+multdi-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/multdi-1.c
+END
+20070212-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20070212-2.c
+END
+921202-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921202-1.c
+END
+struct-ini-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/struct-ini-1.c
+END
+20010717-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010717-1.c
+END
+981001-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/981001-1.c
+END
+960311-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960311-1.c
+END
+951204-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/951204-1.c
+END
+930630-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930630-1.c
+END
+pr29797-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr29797-2.c
+END
+20000717-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000717-5.c
+END
+931208-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931208-1.c
+END
+981206-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/981206-1.c
+END
+930916-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930916-1.c
+END
+930719-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930719-1.c
+END
+medce-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/medce-1.c
+END
+pr33142.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr33142.c
+END
+pr23324.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr23324.c
+END
+pr23047.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr23047.c
+END
+gofast.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/gofast.c
+END
+20000121-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000121-1.c
+END
+conversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/conversion.c
+END
+20031211-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031211-1.c
+END
+20030401-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030401-1.c
+END
+pr27364.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr27364.c
+END
+20000801-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000801-1.c
+END
+20000523-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000523-1.c
+END
+20020402-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020402-3.c
+END
+20020206-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020206-1.c
+END
+va-arg-11.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-11.c
+END
+931012-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931012-1.c
+END
+20051215-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20051215-1.c
+END
+931110-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931110-2.c
+END
+builtin-constant.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/builtin-constant.c
+END
+20020805-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020805-1.c
+END
+20030606-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030606-1.c
+END
+zero-struct-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/zero-struct-1.c
+END
+regstack-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/regstack-1.c
+END
+pr28778.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr28778.c
+END
+950322-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950322-1.c
+END
+pr19689.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr19689.c
+END
+930603-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930603-3.c
+END
+920721-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920721-3.c
+END
+strlen-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strlen-1.c
+END
+920409-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920409-1.c
+END
+20030828-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030828-2.c
+END
+980602-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980602-1.c
+END
+991016-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/991016-1.c
+END
+const-addr-expr-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/const-addr-expr-1.c
+END
+20060929-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060929-1.c
+END
+va-arg-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-1.c
+END
+990527-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990527-1.c
+END
+950929-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950929-1.c
+END
+loop-9.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-9.c
+END
+stdarg-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/stdarg-1.c
+END
+20020215-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020215-1.c
+END
+string-opt-17.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/string-opt-17.c
+END
+20060412-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060412-1.c
+END
+va-arg-20.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-20.c
+END
+920410-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920410-1.c
+END
+20070212-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20070212-3.c
+END
+931102-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931102-1.c
+END
+mayalias-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/mayalias-1.c
+END
+921104-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921104-1.c
+END
+921202-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921202-2.c
+END
+20000818-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000818-1.c
+END
+struct-ini-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/struct-ini-2.c
+END
+bf-pack-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/bf-pack-1.c
+END
+20060930-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060930-1.c
+END
+960311-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960311-2.c
+END
+920812-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920812-1.c
+END
+920731-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920731-1.c
+END
+strct-pack-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strct-pack-1.c
+END
+930818-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930818-1.c
+END
+ffs-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/ffs-1.c
+END
+pr22630.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr22630.c
+END
+20001111-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001111-1.c
+END
+pr19606.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr19606.c
+END
+20031211-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031211-2.c
+END
+20030222-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030222-1.c
+END
+20000622-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000622-1.c
+END
+20000703-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000703-1.c
+END
+20000801-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000801-2.c
+END
+20020108-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020108-1.c
+END
+20020206-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020206-2.c
+END
+va-arg-12.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-12.c
+END
+20030821-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030821-1.c
+END
+20040703-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040703-1.c
+END
+921113-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921113-1.c
+END
+20020904-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020904-1.c
+END
+20040309-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040309-1.c
+END
+951115-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/951115-1.c
+END
+930622-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930622-1.c
+END
+980701-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980701-1.c
+END
+980602-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980602-2.c
+END
+920829-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920829-1.c
+END
+va-arg-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-2.c
+END
+980709-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/62/trunk/tcc-65816/test/tests/980709-1.c
+END
+pr30185.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr30185.c
+END
+stdarg-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/stdarg-2.c
+END
+20000113-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000113-1.c
+END
+20050111-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050111-1.c
+END
+pr29156.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr29156.c
+END
+arith-rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/arith-rand.c
+END
+pr25737.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr25737.c
+END
+20011126-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011126-1.c
+END
+20010119-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010119-1.c
+END
+string-opt-18.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/string-opt-18.c
+END
+20030714-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030714-1.c
+END
+931102-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931102-2.c
+END
+931004-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-1.c
+END
+mayalias-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/mayalias-2.c
+END
+20010915-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010915-1.c
+END
+20020716-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020716-1.c
+END
+921006-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921006-1.c
+END
+20050119-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050119-1.c
+END
+20000917-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000917-1.c
+END
+struct-ini-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/struct-ini-3.c
+END
+961122-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961122-1.c
+END
+960312-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960312-1.c
+END
+950511-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950511-1.c
+END
+20060930-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060930-2.c
+END
+20070517-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20070517-1.c
+END
+960311-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960311-3.c
+END
+20040917-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040917-1.c
+END
+960830-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960830-1.c
+END
+990117-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990117-1.c
+END
+strct-pack-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strct-pack-2.c
+END
+extzvsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/extzvsi.c
+END
+ffs-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/ffs-2.c
+END
+pr31605.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr31605.c
+END
+pr25125.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr25125.c
+END
+20001013-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001013-1.c
+END
+pr16790-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr16790-1.c
+END
+20041210-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041210-1.c
+END
+pr27285.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr27285.c
+END
+20020404-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020404-1.c
+END
+cvt-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/cvt-1.c
+END
+20000605-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000605-1.c
+END
+20000801-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000801-3.c
+END
+20010325-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010325-1.c
+END
+20011019-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011019-1.c
+END
+20030920-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030920-1.c
+END
+va-arg-13.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-13.c
+END
+20041218-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041218-1.c
+END
+20010924-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010924-1.c
+END
+960321-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960321-1.c
+END
+960402-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960402-1.c
+END
+930622-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930622-2.c
+END
+20030928-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030928-1.c
+END
+930408-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930408-1.c
+END
+990404-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990404-1.c
+END
+string-opt-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/string-opt-5.c
+END
+981019-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/981019-1.c
+END
+zerolen-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/zerolen-1.c
+END
+stdarg-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/stdarg-3.c
+END
+20020413-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020413-1.c
+END
+20020216-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020216-1.c
+END
+20011109-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011109-1.c
+END
+floatunsisf-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/floatunsisf-1.c
+END
+20011126-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011126-2.c
+END
+941101-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/941101-1.c
+END
+va-arg-22.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-22.c
+END
+920411-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920411-1.c
+END
+20050218-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050218-1.c
+END
+931004-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-2.c
+END
+20050119-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050119-2.c
+END
+mayalias-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/mayalias-3.c
+END
+20000819-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000819-1.c
+END
+struct-ini-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/struct-ini-4.c
+END
+961122-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961122-2.c
+END
+930614-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930614-1.c
+END
+980612-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980612-1.c
+END
+960419-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960419-1.c
+END
+strct-pack-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strct-pack-3.c
+END
+struct-cpy-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/struct-cpy-1.c
+END
+pr23604.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr23604.c
+END
+20001112-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001112-1.c
+END
+20001031-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001031-1.c
+END
+20051110-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20051110-1.c
+END
+20041112-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041112-1.c
+END
+20040302-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040302-1.c
+END
+20020503-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020503-1.c
+END
+20020225-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020225-1.c
+END
+20000605-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000605-2.c
+END
+20000801-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000801-4.c
+END
+941110-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/941110-1.c
+END
+20040820-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040820-1.c
+END
+20040704-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040704-1.c
+END
+931031-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931031-1.c
+END
+920501-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920501-1.c
+END
+20030903-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030903-1.c
+END
+va-arg-14.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-14.c
+END
+20060905-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060905-1.c
+END
+950503-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950503-1.c
+END
+20050826-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050826-1.c
+END
+920625-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920625-1.c
+END
+920428-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920428-1.c
+END
+980505-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980505-1.c
+END
+980424-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980424-1.c
+END
+zerolen-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/zerolen-2.c
+END
+va-arg-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-4.c
+END
+int-compare.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/int-compare.c
+END
+pr17133.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr17133.c
+END
+bf-sign-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/bf-sign-1.c
+END
+20001101.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001101.c
+END
+20001121-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001121-1.c
+END
+stdarg-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/stdarg-4.c
+END
+pr27671-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr27671-1.c
+END
+20040311-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040311-1.c
+END
+align-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/align-1.c
+END
+20030313-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030313-1.c
+END
+20031204-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20031204-1.c
+END
+20000910-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000910-1.c
+END
+20010711-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010711-1.c
+END
+shiftdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/shiftdi.c
+END
+strct-varg-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strct-varg-1.c
+END
+20020118-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020118-1.c
+END
+20011109-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011109-2.c
+END
+921204-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921204-1.c
+END
+931005-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931005-1.c
+END
+20030715-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030715-1.c
+END
+va-arg-23.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-23.c
+END
+switch-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/switch-1.c
+END
+921123-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921123-1.c
+END
+921007-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921007-1.c
+END
+931004-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-3.c
+END
+20040319-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040319-1.c
+END
+950512-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950512-1.c
+END
+930713-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930713-1.c
+END
+960116-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960116-1.c
+END
+930614-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930614-2.c
+END
+960419-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960419-2.c
+END
+strct-pack-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/strct-pack-4.c
+END
+pr19005.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr19005.c
+END
+pr15262.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr15262.c
+END
+20021010-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021010-1.c
+END
+20001130-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001130-1.c
+END
+pr31448-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr31448-2.c
+END
+pr28651.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr28651.c
+END
+20051110-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20051110-2.c
+END
+20051012-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20051012-1.c
+END
+20030403-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030403-1.c
+END
+20010604-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010604-1.c
+END
+20030125-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/trunk/tcc-65816/test/tests/20030125-1.c
+END
+20000722-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000722-1.c
+END
+20020127-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020127-1.c
+END
+20011217-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011217-1.c
+END
+20020225-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020225-2.c
+END
+pr33669.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr33669.c
+END
+20000605-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000605-3.c
+END
+930123-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930123-1.c
+END
+20060127-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060127-1.c
+END
+921016-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921016-1.c
+END
+va-arg-15.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-15.c
+END
+20010925-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20010925-1.c
+END
+20040409-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040409-1.c
+END
+20020529-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020529-1.c
+END
+961213-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/961213-1.c
+END
+20070724-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20070724-1.c
+END
+20050826-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050826-2.c
+END
+alias-11.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/52/trunk/tcc-65816/test/tests/alias-11.c
+END
+980604-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980604-1.c
+END
+990324-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990324-1.c
+END
+990127-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990127-1.c
+END
+980505-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980505-2.c
+END
+990208-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/55/trunk/tcc-65816/test/tests/990208-1.c
+END
+960608-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960608-1.c
+END
+990923-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990923-1.c
+END
+va-arg-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-5.c
+END
+pr22429.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr22429.c
+END
+pr22348.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr22348.c
+END
+20051021-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20051021-1.c
+END
+align-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/align-2.c
+END
+20020611-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020611-1.c
+END
+20000731-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000731-1.c
+END
+20000910-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000910-2.c
+END
+20001228-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001228-1.c
+END
+20050613-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050613-1.c
+END
+941021-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/941021-1.c
+END
+921123-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/921123-2.c
+END
+20020619-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020619-1.c
+END
+931004-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931004-4.c
+END
+960215-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/960215-1.c
+END
+931228-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/931228-1.c
+END
+pr22493-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr22493-1.c
+END
+20021010-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20021010-2.c
+END
+pr31169.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/pr31169.c
+END
+20001130-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001130-2.c
+END
+loop-10.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/loop-10.c
+END
+20060102-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20060102-1.c
+END
+20050104-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20050104-1.c
+END
+20041113-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20041113-1.c
+END
+20020423-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020423-1.c
+END
+20020307-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020307-1.c
+END
+20020226-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20020226-1.c
+END
+20040705-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040705-1.c
+END
+20030626-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/tcc-65816/test/tests/20030626-1.c
+END
+930106-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/930106-1.c
+END
+920501-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920501-3.c
+END
+20040409-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20040409-2.c
+END
+va-arg-16.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-16.c
+END
+920429-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/920429-1.c
+END
+980506-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/980506-1.c
+END
+990127-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/990127-2.c
+END
+950906-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950906-1.c
+END
+950628-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/950628-1.c
+END
+990628-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/tcc-65816/test/tests/990628-1.c
+END
+va-arg-6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/va-arg-6.c
+END
+20001203-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20001203-1.c
+END
+20030117-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20030117-1.c
+END
+20000731-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20000731-2.c
+END
+20011128-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tcc-65816/test/tests/20011128-1.c
+END

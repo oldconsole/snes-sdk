@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/application
+END
+init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/application/init.cpp
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/application/application.cpp
+END
+application.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/application/application.moc.hpp
+END

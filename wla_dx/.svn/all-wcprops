@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/83/trunk/wla_dx
+END
+opcodes_gb_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_gb_tables.c
+END
+decode_6502.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/wla_dx/decode_6502.c
+END
+opcodes_65816_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_65816_tables.c
+END
+SCOPTIONS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/wla_dx/SCOPTIONS
+END
+decode_huc6280.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/wla_dx/decode_huc6280.c
+END
+opcodes_65816.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_65816.c
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/wla_dx/stack.c
+END
+opcodes_65c02_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_65c02_tables.c
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/wla_dx/CHANGELOG
+END
+opcodes_6502.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_6502.c
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/wla_dx/stack.h
+END
+listfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/wla_dx/listfile.c
+END
+opcodes_65c02.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_65c02.c
+END
+decode_spc700.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/wla_dx/decode_spc700.c
+END
+listfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/wla_dx/listfile.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/51/trunk/wla_dx/defines.h
+END
+main.c.orig
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/wla_dx/main.c.orig
+END
+amigaos4
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/wla_dx/amigaos4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/wla_dx/INSTALL
+END
+pass_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/51/trunk/wla_dx/pass_1.c
+END
+opcodes_z80_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_z80_tables.c
+END
+pass_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/wla_dx/pass_2.c
+END
+opcodes_spc700.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_spc700.c
+END
+pass_3.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/wla_dx/pass_3.c
+END
+pass_4.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/51/trunk/wla_dx/pass_4.c
+END
+pass_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/wla_dx/pass_1.h
+END
+decode_gb.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/wla_dx/decode_gb.c
+END
+decode_65816.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/wla_dx/decode_65816.c
+END
+pass_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/wla_dx/pass_2.h
+END
+pass_3.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/wla_dx/pass_3.h
+END
+opcodes_z80.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_z80.c
+END
+decode_6510.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/wla_dx/decode_6510.c
+END
+pass_4.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/wla_dx/pass_4.h
+END
+opcodes_6510_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_6510_tables.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/wla_dx/LICENSE
+END
+opcodes_6502_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_6502_tables.c
+END
+decode_65c02.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/wla_dx/decode_65c02.c
+END
+opcodes_gb.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_gb.c
+END
+opcodes_huc6280_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_huc6280_tables.c
+END
+opcodes_6510.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_6510.c
+END
+msdos.bat
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/wla_dx/msdos.bat
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/wla_dx/parse.c
+END
+unix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/wla_dx/unix.sh
+END
+opcodes_huc6280.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_huc6280.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/wla_dx/README
+END
+parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/wla_dx/parse.h
+END
+win32
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/wla_dx/win32
+END
+include_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/82/trunk/wla_dx/include_file.c
+END
+opcodes_spc700_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/wla_dx/opcodes_spc700_tables.c
+END
+decode_z80.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/wla_dx/decode_z80.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/wla_dx/main.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/wla_dx/TODO
+END
+include_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/wla_dx/include_file.h
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/wla_dx/main.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/wla_dx/makefile
+END
+amiga
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/wla_dx/amiga
+END

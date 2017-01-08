@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/50/trunk/wla_dx/wlab
+END
+makefile.unix
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/wla_dx/wlab/makefile.unix
+END
+smakefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/wla_dx/wlab/smakefile
+END
+SCOPTIONS
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/wla_dx/wlab/SCOPTIONS
+END
+makefile.msdos
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/wla_dx/wlab/makefile.msdos
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/wla_dx/wlab/defines.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/wla_dx/wlab/main.c
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/wla_dx/wlab/main.h
+END
+makefile.amiga
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/wla_dx/wlab/makefile.amiga
+END
+makefile.win32.orig
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/wla_dx/wlab/makefile.win32.orig
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/50/trunk/wla_dx/wlab/makefile
+END
+makefile.win32
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/wla_dx/wlab/makefile.win32
+END

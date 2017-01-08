@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src
+END
+bitmap_font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/bitmap_font.cpp
+END
+osd_element.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/osd_element.h
+END
+savestate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/savestate.h
+END
+initstate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/initstate.cpp
+END
+video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video.cpp
+END
+bitmap_font.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/bitmap_font.h
+END
+memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/memory.cpp
+END
+initstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/initstate.h
+END
+video.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/video.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/memory.h
+END
+state_osd_elements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/state_osd_elements.cpp
+END
+statesaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/statesaver.cpp
+END
+interrupter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/interrupter.cpp
+END
+gambatte.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/gambatte.cpp
+END
+colorconversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/colorconversion.cpp
+END
+statesaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/statesaver.h
+END
+state_osd_elements.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/state_osd_elements.h
+END
+insertion_sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/insertion_sort.h
+END
+cpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/cpu.cpp
+END
+sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound.cpp
+END
+rtc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/rtc.cpp
+END
+interrupter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/interrupter.h
+END
+colorconversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/colorconversion.h
+END
+event_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/event_queue.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/cpu.h
+END
+rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/rtc.h
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/supergameboy/libgambatte/src/sound.h
+END

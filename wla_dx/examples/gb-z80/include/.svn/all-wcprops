@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/include
+END
+cgb_hardware.i
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/include/cgb_hardware.i
+END
+pocket_voice.i
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/include/pocket_voice.i
+END
+nintendo_logo.i
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/include/nintendo_logo.i
+END
+gb_memory.i
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/include/gb_memory.i
+END
+gb_hardware.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/include/gb_hardware.i
+END
+gb_banks.i
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/wla_dx/examples/gb-z80/include/gb_banks.i
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma
+END
+inbyte.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/inbyte.h
+END
+lencoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/lencoder.h
+END
+ariprice.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/ariprice.h
+END
+lzma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/lzma.cpp
+END
+7z.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/7z.h
+END
+lzmadecode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/lzmadecode.cpp
+END
+jma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/jma.cpp
+END
+rngcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/rngcoder.h
+END
+lzma.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/lzma.h
+END
+litcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/litcoder.h
+END
+rcdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/rcdefs.h
+END
+jma.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/jma.h
+END
+portable.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/portable.h
+END
+btreecd.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/btreecd.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/crc32.h
+END
+7zlzma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/7zlzma.cpp
+END
+lzmadec.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/lzmadec.h
+END
+winout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/winout.cpp
+END
+iiostrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/iiostrm.cpp
+END
+jcrc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/jcrc32.cpp
+END
+aribitcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/aribitcd.h
+END
+ariconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/ariconst.h
+END
+inbyte.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/inbyte.cpp
+END
+winout.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/winout.h
+END
+iiostrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/libjma/iiostrm.h
+END

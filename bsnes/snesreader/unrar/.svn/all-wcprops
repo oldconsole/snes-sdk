@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar
+END
+model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/model.cpp
+END
+compress.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/compress.hpp
+END
+getbits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/getbits.cpp
+END
+coder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/coder.hpp
+END
+unrar_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unrar_misc.cpp
+END
+suballoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/suballoc.cpp
+END
+model.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/model.hpp
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/changes.txt
+END
+getbits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/getbits.hpp
+END
+technote.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/technote.txt
+END
+unrar_open.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unrar_open.cpp
+END
+suballoc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/suballoc.hpp
+END
+extract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/extract.cpp
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/license.txt
+END
+archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/archive.cpp
+END
+unpack20.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unpack20.cpp
+END
+rawread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/rawread.cpp
+END
+archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/archive.hpp
+END
+rar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/rar.hpp
+END
+rawread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/rawread.hpp
+END
+unrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unrar.h
+END
+arcread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/arcread.cpp
+END
+encname.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/encname.cpp
+END
+crc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/crc.cpp
+END
+encname.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/encname.hpp
+END
+headers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/headers.hpp
+END
+unpack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unpack.cpp
+END
+array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/array.hpp
+END
+unicode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unicode.cpp
+END
+unpack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unpack.hpp
+END
+unrar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unrar.cpp
+END
+rarvm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/rarvm.cpp
+END
+unpack15.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unpack15.cpp
+END
+rarvmtbl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/rarvmtbl.cpp
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/readme.txt
+END
+unicode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/unicode.hpp
+END
+coder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/coder.cpp
+END
+rarvm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/rarvm.hpp
+END
+whatsnew.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/snesreader/unrar/whatsnew.txt
+END

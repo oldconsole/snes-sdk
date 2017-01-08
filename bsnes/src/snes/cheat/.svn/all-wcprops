@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cheat
+END
+cheat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cheat/cheat.cpp
+END
+cheat-inline.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cheat/cheat-inline.hpp
+END
+cheat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/bsnes/src/snes/cheat/cheat.hpp
+END

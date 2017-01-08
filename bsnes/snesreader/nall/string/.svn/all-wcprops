@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string
+END
+math.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/math.hpp
+END
+cast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/cast.hpp
+END
+strpos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/strpos.hpp
+END
+split.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/split.hpp
+END
+match.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/match.hpp
+END
+xml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/xml.hpp
+END
+utility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/utility.hpp
+END
+base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/base.hpp
+END
+replace.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/replace.hpp
+END
+trim.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/trim.hpp
+END
+filename.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/filename.hpp
+END
+convert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/convert.hpp
+END
+variadic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/variadic.hpp
+END
+strl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/strl.hpp
+END
+compare.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/compare.hpp
+END
+core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/snesreader/nall/string/core.hpp
+END

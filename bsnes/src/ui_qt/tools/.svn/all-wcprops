@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools
+END
+cheatfinder.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools/cheatfinder.moc.hpp
+END
+tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools/tools.cpp
+END
+tools.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools/tools.moc.hpp
+END
+statemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools/statemanager.cpp
+END
+cheateditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools/cheateditor.cpp
+END
+cheatfinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools/cheatfinder.cpp
+END
+statemanager.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools/statemanager.moc.hpp
+END
+cheateditor.moc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/bsnes/src/ui_qt/tools/cheateditor.moc.hpp
+END

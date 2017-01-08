@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin
+END
+pr28796-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/pr28796-2.c
+END
+builtin-choose-expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-choose-expr.c
+END
+builtin-prefetch-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-prefetch-1.c
+END
+va-arg-pack-len-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/va-arg-pack-len-1.c
+END
+builtin-apply2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-apply2.c
+END
+builtin-apply3.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-apply3.c
+END
+builtin-apply4.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-apply4.c
+END
+builtin-bswap-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-bswap-2.c
+END
+tg-tests.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/tg-tests.h
+END
+builtins-64.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtins-64.c
+END
+pr19402-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/pr19402-2.c
+END
+builtin-bswap-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-bswap-3.c
+END
+builtin-object-size-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-object-size-1.c
+END
+builtin-object-size-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-object-size-2.c
+END
+builtin-bswap-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-bswap-4.c
+END
+builtin-return-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-return-1.c
+END
+builtin-bswap-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-bswap-5.c
+END
+builtin-object-size-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-object-size-3.c
+END
+builtin-object-size-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/builtin-object-size-4.c
+END
+pr30957-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/tcc-65816/test/unimplemented/dg/builtin/pr30957-1.c
+END
