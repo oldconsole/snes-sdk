@@ -1,4 +1,4 @@
-BSNES=1
+BSNES=0
 PREFIX = /usr/local/snes-sdk
 _OS = $(shell uname -s)
 
