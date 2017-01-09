@@ -3,7 +3,7 @@ CC=gcc
 LD=gcc
 
 CFLAGS?= -c -g -Wall -O2 -DPREFIX=\"$(PREFIX)\"
-LDFLAGS =
+LDFLAGS = -lm
 
 CFILES = main.c memory.c parse.c files.c check.c analyze.c write.c compute.c discard.c listfile.c
 HFILES = main.h memory.h parse.h files.h check.h analyze.h write.h compute.h discard.h listfile.h defines.h
